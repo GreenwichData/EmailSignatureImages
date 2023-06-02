@@ -19,7 +19,8 @@ uploaded image files for email signatures
 ![sub head](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/6aaddf44-de2a-4b88-be92-1fd4f3da5e6c)
 ![Web Icon](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/4710093a-6694-40d8-bfa5-5d3030380284)
 ![wed address](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/39f5aadb-7934-4ba5-883c-dec969af2c8b)
-![FacebookLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/b9eca533-d2bd-4ff3-b2eb-458bdef8306f)
-![InstagramLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/5355e1cd-5a0d-4a8d-8fa9-e10c763d602c)
-![LinkedInLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/df020a2e-fd68-4617-bab9-807fbac8cbd9)
-![TwitterLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/8181ceab-75d9-447f-a854-7e7d4e175da6)
+
+![FacebookLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/b16538d2-df46-476b-aefe-3496e2fa18b8)
+![InstagramLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/d00eff0f-c2be-4777-a767-e251a04cc091)
+![LinkedInLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/795b158b-1441-4e90-9458-ca73e4df92f3)
+![TwitterLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/7dbfbef6-dfab-49b9-a77b-b4c3a6dfc776)
