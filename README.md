@@ -24,3 +24,7 @@ uploaded image files for email signatures
 ![InstagramLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/d00eff0f-c2be-4777-a767-e251a04cc091)
 ![LinkedInLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/795b158b-1441-4e90-9458-ca73e4df92f3)
 ![TwitterLogo](https://github.com/GreenwichData/EmailSignatureImages/assets/112867359/7dbfbef6-dfab-49b9-a77b-b4c3a6dfc776)
+![box](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/1efa01d6-4f0c-42f4-b0bf-60778478dae9)
+![probate](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/744801cc-0911-4a47-909b-546501a896a0)
+![reg](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/1d958caf-16d4-45f7-8e1d-1d8299f7bbf3)
+![reg](https://github.com/GreenwichData/EmailSignatureImages/assets/122604894/0c8f3925-ceeb-4e5e-9294-2d15a44e5341)
